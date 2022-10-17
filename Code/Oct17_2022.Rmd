@@ -1,0 +1,20 @@
+---
+title: "Class 17 Oct 2022"
+author: "Trent Meyer"
+date: "2022-10-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Set things up
+```{r}
+rm(list = ls()) 
+library(ggplot2)
+library(dplyr)
+library(here)
+```
+
+Ready for action!
