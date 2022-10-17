@@ -15,6 +15,14 @@ rm(list = ls())
 library(ggplot2)
 library(dplyr)
 library(here)
+library(tidyverse)
 ```
 
 Ready for action!
+
+Now look at some built in data
+
+```{r}
+view(cars)
+```
+
